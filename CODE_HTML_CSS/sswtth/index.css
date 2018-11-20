@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+.title{
+    float: left;
+    width: 20%;
+    text-align: center;
+    border: 1px solid greenyellow;
+    background-color: darkgreen;
+}
+.title a{
+    text-decoration: none;
+    color: greenyellow;
+}
+.title a:hover{
+    color: brown;
+}
+.right{
+    float: left;
+    color: greenyellow;
+    display: block;
+    width: 20%;
+    text-align: left; 
+}
+.left{
+    float: left;
+    display: block;
+    color: greenyellow;
+    width: 20%;
+}
+.main{
+    color: greenyellow;
+    text-align: left;
+    float: left;
+    display: block;
+    width: 60%;
+}
+.form{
+    margin-left: 64%;
+}
+
+#row {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px){
+    .left {
+        width: 100%;
+    }
+    .main {
+        width: 100%;
+    }
+    .right {
+        width: 100%;
+    }
+}

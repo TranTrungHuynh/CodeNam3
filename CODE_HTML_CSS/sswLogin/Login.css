@@ -1,0 +1,15 @@
+div#Parent{
+    border: 2px solid greenyellow;
+    border-radius: 20px;
+    outline-style: double;
+    outline-color: red;   
+    width: 500px;
+    height: 200px;
+    margin: 200px auto;
+    display: flex;
+}
+div form{
+    color: greenyellow;
+    margin: auto;
+    outline-color: red; 
+}

@@ -1,0 +1,31 @@
+table{
+    color: greenyellow;
+    float: left;
+    display: block;
+    border-collapse: collapse;
+}
+th{
+    background-color: midnightblue;
+    text-align: center;
+    border: 2px solid red;
+}
+td{
+    text-align: center;
+    border: 2px solid red;
+}
+.tenHP{
+    text-align: left;
+}
+#tbParent{
+    width: 1500;
+    display: flex;
+    margin: 80px auto;
+}
+.tbChild{
+    width: 700px;
+    margin: auto;
+}
+
+
+
+

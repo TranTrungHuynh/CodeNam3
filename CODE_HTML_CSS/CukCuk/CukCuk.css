@@ -1,0 +1,275 @@
+#top {
+    background-color: #0973b9;
+    /* background-size: 100%; */
+    height: 55px;
+    display: flex;
+    max-width: 1600px;
+}
+#menuLeft{
+    background-color: #0973b9;
+    height: 750px;
+    width: 230px;
+}
+#selectNhaHang{
+    max-width: 250px;
+    height: 30px;
+    background-color: #055491;
+    margin: auto 30px;
+    color: white;
+    border: none;
+}
+#selectNgonNgu{
+    max-width: 200px;
+    height: 30px;
+    background-color: #055491;
+    margin: auto 0px;
+    color: white;
+    border: none;
+    margin-left: 500px;
+}
+#logo{
+    float: left;
+    width: 164px;
+    height: 21px;
+    margin: auto 0px;
+}
+#strigeMenu{
+    float:left;
+    margin: 15px 5px 15px 15px;
+}
+#QuaDat{
+    max-width: 40px;
+    height: 50px;
+    margin-top: 2px;
+    margin-left: 20px;
+}
+#DauNguoi{
+    margin: auto 0px;
+    max-width: 20px;
+    margin-left: 20px;
+    padding: 3.5px 2.5px 0px 2.5px;
+    border-radius: 50px;
+    background-color: white;
+    border: none;
+}
+#MuiTenXuong{
+    margin: auto 0px;
+    margin-left: 10px;
+}
+.divIcon{
+    width: 230px;
+    height: 38px;
+    border-top: 2px groove aqua;
+    text-decoration: none;
+}
+a:hover .divIcon{
+    display: block;
+    background-color: #eb7728;
+}
+.aIcon a{
+    width: 230px;
+    height: 38px;
+}
+.iconMenu{
+    background-image: url(iconMenu.png);
+    background-repeat: no-repeat;
+    display: flex;
+}
+.icon1{
+    width: 230px;
+    height: 38px;
+    margin-top: 5px;
+    margin-left: 12px;
+}
+.textMenuLeft1{
+    margin: 7px 33px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon2{
+    width: 230px;
+    height: 38px;
+    background-position: 0px -190px;
+    margin-top: 5px;
+    margin-left: 16px;
+}
+.textMenuLeft2{
+    margin: 7px 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon3{
+    width: 230px;
+    height: 38px;
+    background-position: 0px -380px;
+    margin-top: 10px;
+    margin-left: 14px;
+}
+.textMenuLeft3{
+    margin: 2px 33px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon4{
+    width: 230px;
+    height: 38px;
+    background-position: 0px -38px;
+    margin: 5px 16px;
+}
+.textMenuLeft4{
+    margin: 7px 32px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon5{
+    width: 230px;
+    height: 38px;
+    background-position: 0px -76px;
+    margin: 5px 17px;
+}
+.textMenuLeft5{
+    margin: 7px 31px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon6{
+    width: 230px;
+    height: 38px;
+    background-image: url(QuyTienGui.png);
+    display: block;
+    background-repeat: no-repeat;
+    margin: 7px 20px;
+}
+.textMenuLeft6{
+    margin: 10px 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon7{
+    width: 230px;
+    height: 38px;
+    background-image: url(ChiPhi.png);
+    display: block;
+    background-repeat: no-repeat;
+    margin: 7px 19px;
+}
+.textMenuLeft7{
+    margin: 8px 31px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon8{
+    width: 230px;
+    height: 38px;
+    background-position: 0px -114px;
+    margin: 4px 17px;
+}
+.textMenuLeft8{
+    margin: 10px 33px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon9{
+    width: 230px;
+    height: 38px;
+    background-image: url(ThucDon.png);
+    display: block;
+    background-repeat: no-repeat;
+    margin: 5px 22px;
+}
+.textMenuLeft9{
+    margin: 10px 28px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon10{
+    width: 230px;
+    height: 38px;
+    background-image: url(HuyHoaDon.png);
+    display: block;
+    background-repeat: no-repeat;
+    margin: 7px 22px;
+}
+.textMenuLeft10{
+    margin: 10px 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon11{
+    width: 230px;
+    height: 38px;
+    background-position: 0px -152px;
+    margin: 4px 20px;
+}
+.textMenuLeft11{
+    margin: 10px 32px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon12{
+    width: 230px;
+    height: 38px;
+    background-position: 0px -228px;
+    margin: 4px 20px;
+}
+.textMenuLeft12{
+    margin: 9px 32px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon13{
+    width: 230px;
+    height: 38px;
+    background-image: url(TroGiup.png);
+    display: block;
+    background-repeat: no-repeat;
+    margin: 7px 0px;
+    margin-left: 20px;
+}
+.textMenuLeft13{
+    margin: 9px 0px;
+    margin-left: 32px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon14{
+    width: 230px;
+    height: 38px;
+    background-image: url(ThueBao.png);
+    display: block;
+    background-repeat: no-repeat;
+    margin: 7px 20px;
+}
+.textMenuLeft14{
+    margin: 9px 32px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.icon15{
+    width: 230px;
+    height: 38px;
+    background-image: url(5food.png);
+    display: block;
+    background-repeat: no-repeat;
+    margin: 7px 20px;
+}
+.textMenuLeft15{
+    margin: 9px 33px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
